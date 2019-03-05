@@ -17,7 +17,7 @@ This implementation uses simple Naive Bayes approach to classify the tweets.
 
 Example:
 
-    python ./geolocatio.py tweets.train.clean.txt tweets.test1.clean.txt output.txt
+    python ./geolocation.py tweets.train.clean.txt tweets.test1.clean.txt output.txt
 
 **Result:**
 
